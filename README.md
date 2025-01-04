@@ -1,4 +1,4 @@
-![Stack Overflow Clone](client/public/images/stack-overflow clone.png)
+![Stack Overflow Clone](public/images/stack-overflow clone.png)
 
 # `npm install`
 use the above command on the client side to install dependencies
